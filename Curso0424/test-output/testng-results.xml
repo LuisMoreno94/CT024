@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-20T16:46:09Z" name="Default suite" finished-at="2024-04-20T16:46:31Z" duration-ms="21647">
+    <groups>
+    </groups>
+    <test started-at="2024-04-20T16:46:09Z" name="Default test" finished-at="2024-04-20T16:46:31Z" duration-ms="21647">
+      <class name="pruebang.SelTest">
+        <test-method signature="f()[pri:0, instance:pruebang.SelTest@37e4d7bb]" started-at="2024-04-20T10:46:09Z" name="f" finished-at="2024-04-20T10:46:31Z" duration-ms="21553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- pruebang.SelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
